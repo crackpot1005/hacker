@@ -102,7 +102,7 @@ Techs: Java ,XML and Firebase.
 <dt>Birthplace</dt>
 <dd>Pune</dd>
 <dt>LinkedIn</dt>
-<a href="https://www.linkedin.com/in/soham-meher-723a58115">https://www.linkedin.com/in/soham-meher-723a58115</a>
+<dd>https://www.linkedin.com/in/soham-meher-723a58115<dd>
 </dl>
 
 ```
